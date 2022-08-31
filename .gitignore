@@ -1,2 +1,2 @@
 secretkeys.py
-.cache
+*.cache
